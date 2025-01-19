@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-webring/static/css/main.94e72782.css",
+    "main.js": "/portfolio-webring/static/js/main.f4afacf8.js",
+    "static/js/156.b1d1dd75.chunk.js": "/portfolio-webring/static/js/156.b1d1dd75.chunk.js",
+    "index.html": "/portfolio-webring/index.html",
+    "main.94e72782.css.map": "/portfolio-webring/static/css/main.94e72782.css.map",
+    "main.f4afacf8.js.map": "/portfolio-webring/static/js/main.f4afacf8.js.map",
+    "156.b1d1dd75.chunk.js.map": "/portfolio-webring/static/js/156.b1d1dd75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94e72782.css",
+    "static/js/main.f4afacf8.js"
+  ]
+}

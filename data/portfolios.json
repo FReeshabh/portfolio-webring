@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Rishabh Tewari",
+    "year": 2022,
+    "website": "https://freeshabh.github.io/links",
+    "interests": ["Machine Learning", "Cybersecurity", "Full Stack"],
+    "status": "current",
+    "degree": ["BS"],
+    "description": "Passionate about creating accessible web applications."
+  },
+  {
+    "name": "Ben Steele",
+    "year": 2025,
+    "website": "https://www.bensteele.net/",
+    "interests": ["Cybersecurity", "AI Ethics", "Networking"],
+    "status": "current",
+    "degree": ["MS"],
+    "description": "Focused on ethical AI and securing sensitive data."
+  },
+  {
+    "name": "Ananth Vivekanand",
+    "year": 2023,
+    "website": "https://ananthvivekanand.com/",
+    "interests": ["Cloud Computing", "DevOps", "Software Architecture"],
+    "status": "alumni",
+    "degree": ["PhD"],
+    "description": "Expert in designing scalable cloud architectures."
+  },
+  {
+    "name": "Elliot Roe",
+    "year": 2022,
+    "website": "https://elliotbroe.com/",
+    "interests": ["Game Development", "Graphic Design", "Animation"],
+    "status": "alumni",
+    "degree": ["MS", "PhD"],
+    "description": "Building immersive experiences in gaming and animation."
+  },
+  {
+    "name": "Alex Wang",
+    "year": 2027,
+    "website": "https://www.alexwang.info/",
+    "interests": ["Data Science", "Statistics", "Python Programming"],
+    "status": "current",
+    "degree": ["BS", "MS"],
+    "description": "Specialized in data analysis and predictive modeling."
+  }
+]
