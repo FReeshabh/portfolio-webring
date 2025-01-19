@@ -68,7 +68,7 @@ Make sure you have the following installed on your system:
 
 Project Structure
 -----------------
-
+```
 .
 ├── public/
 │   ├── data/
@@ -82,7 +82,7 @@ Project Structure
 ├── .gitignore                 # Ignored files for Git
 ├── README.md                  # Project documentation
 ├── package.json               # Project metadata and dependencies
-
+```
 ---
 
 Usage
@@ -110,7 +110,7 @@ Data Format
 -----------
 
 The portfolio data is stored in a JSON file. Here’s an example of the structure:
-
+```
 [
   {
     "name": "Alex Johnson",
@@ -158,6 +158,7 @@ The portfolio data is stored in a JSON file. Here’s an example of the structur
     "description": "Specialized in data analysis and predictive modeling."
   }
 ]
+```
 
 ### Fields:
 - **name**: The full name of the developer.
